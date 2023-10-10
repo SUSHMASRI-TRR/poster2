@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+div{
+    margin-left:34%;
+    margin-top: 5%;
+    height:300px;
+    width:400px;
+    border:5px solid white;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif,cursive;
+}
+p
+{
+    color: white;
+    text-align: center;
+}
